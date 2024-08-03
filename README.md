@@ -74,6 +74,8 @@
 
   **🧷파이썬 술게임 만들기**</br>
 
+</br>
+
 ## 🎯Week3
 ### - 7/9(화) Django 설치 및 가상환경 설정 / 크롤링
   오전: 크롤링 </br>
@@ -82,4 +84,26 @@
    * **일곱 번째 과제** </br>
    
 **🧷DjangoGirls 튜토리얼 따라하기**
+![Django Girls blog - 개인 - Microsoft_ Edge 2024-08-03 12-18-47](https://github.com/user-attachments/assets/26f35913-cae1-44ef-8e54-18ff562b8799)
 
+### - 7/11(목) CRUD
+  오전, 오후: CRUD
+
+  * **여덟 번째 과제** </br>
+
+**🧷영화 리뷰 사이트 만들기**
+![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/user-attachments/assets/ed24a449-3b97-40fc-a81a-1365e4c0109a)
+
+
+### - 7/13(토) user model cuntom / DB 개론
+  오전: user model custom </br>
+  오후: DB 개론
+
+  * **아홉 번째 과제** </br>
+  
+**🧷ERD 작성하기**
+![스크린샷 ERD](https://github.com/user-attachments/assets/848a1ac0-9bc7-495c-83b3-fe9738a1eac9)
+[ERD 링크](https://www.erdcloud.com/d/hAdJgraCSHFbSHxtA)
+
+**🧷AJAX 강의 듣기**
+![WEB1 - Welcome - Chrome 2024-08-03 12-56-45](https://github.com/user-attachments/assets/932b8504-1fb4-4745-bd6f-3d37f383792f)
